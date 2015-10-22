@@ -68,6 +68,7 @@ module NflData
       schedule
     end
 
+
     def get_opponent(team, participants)
       return nil if participants[0].nil?
       p1 = participants[0].inner_text.strip

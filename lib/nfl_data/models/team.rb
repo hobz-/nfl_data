@@ -33,7 +33,7 @@ module NflData
           }
         end
       end
-
     end
+        
   end
 end
